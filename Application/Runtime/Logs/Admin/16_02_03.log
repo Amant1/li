@@ -1,0 +1,2862 @@
+[ 2016-02-03T20:25:04+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doClear
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-02-03T20:25:05+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0698s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-02-03T20:57:48+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-02-03T20:57:50+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+NOTIC: [8] Undefined variable: page E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 209 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-02-03T21:03:10+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020486s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-02-03T21:03:32+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-02-03T21:03:46+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-02-03T21:04:14+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-02-03T21:05:16+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-02-03T21:06:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-02-03T21:06:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-02-03T21:06:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-02-03T21:08:06+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-02-03T21:08:07+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-02-03T21:14:12+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-02-03T21:14:26+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysqldump -u root -p  > ./2016-02-03 21:14:26备份.sql' at line 1
+
+[ 2016-02-03T21:14:32+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysqldump -u root -p  > ./啊实打实的.sql' at line 1
+
+[ 2016-02-03T21:14:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysqldump -u root -p  > ./啊实打实的.sql' at line 1
+
+[ 2016-02-03T21:20:18+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysqldump -uroot -p -h127.0.0.1 boke> 啊实打实的.sql' at line 1
+
+[ 2016-02-03T21:20:48+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.1023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mysqldump -uroot -p -h127.0.0.1 boke> c:\{2016-02-03 21:20:48备份}.sql' at line 1
+
+[ 2016-02-03T21:38:11+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-02-03T21:39:38+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+
+[ 2016-02-03T21:39:43+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-02-03T21:41:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+
+[ 2016-02-03T21:41:20+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-02-03T21:43:07+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+
+[ 2016-02-03T21:43:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-02-03T21:43:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+
+[ 2016-02-03T21:44:22+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-02-03T21:45:29+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-02-03T21:45:47+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [8] Undefined variable: con E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 115 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 54 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 54 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:45:47备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-02-03T21:46:27+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002742s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 54 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 54 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:46:27备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-02-03T21:46:45+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 55 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 55 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:46:45备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-02-03T21:47:36+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:47:36备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-02-03T21:47:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0742s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:47:44备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-02-03T21:51:24+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+
+[ 2016-02-03T21:51:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+SQL: select * from blog_jingli [ RunTime:0.0004s ]
+
+[ 2016-02-03T21:57:04+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [8] Undefined variable: host E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 116 行.
+NOTIC: [8] Undefined variable: user E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 116 行.
+NOTIC: [8] Undefined variable: pass E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 116 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] mysql_fetch_row() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 56 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:57:04备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001255s ]
+
+[ 2016-02-03T21:58:27+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 21:58:27备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001265s ]
+
+[ 2016-02-03T21:59:43+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] file_put_contents(./Database/啊实打实的.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-02-03T22:00:10+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 38 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001035s ]
+
+[ 2016-02-03T22:01:39+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-02-03T22:01:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0071s ]
+ERR: Think\Controller:MyResult方法不存在！
+
+[ 2016-02-03T22:02:24+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-02-03T22:02:25+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2016-02-03T22:03:04+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:03:04备份.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-02-03T22:09:33+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:09:33back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-02-03T22:09:49+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:09:49back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-02-03T22:10:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] file_put_contents(./Database/2016-02-0322:10:03back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-02-03T22:11:18+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] fopen(./Database/2016-02-03 22:11:18back.sql) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:11:18back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-02-03T22:12:36+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] fopen(./Database/2016-02-03 22:12:36back.sql) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+
+[ 2016-02-03T22:13:23+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] fopen(./Database/2016-02-03 22:13:22back.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 39 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:13:22back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-02-03T22:15:15+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] fopen(./Database/2016-02-03 22:15:15back.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 40 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:15:15back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-02-03T22:15:20+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] fopen(./Database/2016-02-03 22:15:20back.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 40 行.
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:15:20back.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-02-03T22:20:00+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-02-03T22:20:01+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000250s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-02-03T22:52:55+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-02-03T22:52:56+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-02-03T22:53:18+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-02-03T22:53:19+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013796s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-02-03T22:53:33+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-02-03T22:53:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-02-03T22:53:52+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] file_put_contents(./Database/2016-02-03 22:53:52.sql) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-02-03T22:53:57+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-02-03T22:53:58+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-02-03T22:54:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-02-03T22:54:04+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000488s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-02-03T22:57:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000210s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-02-03T23:03:21+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2016-02-03T23:03:29+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-02-03T23:03:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-02-03T23:04:33+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000503s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-02-03T23:04:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-02-03T23:04:37+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-02-03T23:04:39+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2016-02-03T23:06:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-02-03T23:07:36+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+
+[ 2016-02-03T23:07:50+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002521s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] fstat() expects parameter 1 to be resource, string given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 145 行.
+NOTIC: [2] fstat() expects parameter 1 to be resource, string given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 145 行.
+NOTIC: [2] fstat() expects parameter 1 to be resource, string given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 145 行.
+NOTIC: [2] fstat() expects parameter 1 to be resource, string given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 145 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-02-03T23:08:14+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [2] fopen(2016-02-03 22) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 145 行.
+NOTIC: [2] fstat() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 146 行.
+NOTIC: [2] readdir() expects parameter 1 to be resource, boolean given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 135 行.
+
+[ 2016-02-03T23:09:14+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] readdir() [<a href='function.readdir'>function.readdir</a>]: 33 is not a valid Directory resource E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 135 行.
+NOTIC: [2] closedir() [<a href='function.closedir'>function.closedir</a>]: 33 is not a valid Directory resource E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 152 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-02-03T23:09:43+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001216s ]
+
+[ 2016-02-03T23:13:47+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002673s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000444s ]
+NOTIC: [8] Undefined variable: list E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-02-03T23:16:01+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 194 行.
+NOTIC: [8] Undefined index: title E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 195 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 197 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 199 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 194 行.
+NOTIC: [8] Undefined index: title E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 195 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 197 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 199 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 194 行.
+NOTIC: [8] Undefined index: title E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 195 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 197 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 199 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 194 行.
+NOTIC: [8] Undefined index: title E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 195 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 197 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 199 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2016-02-03T23:18:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2016-02-03T23:19:14+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000267s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: size/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001198s ]
+
+[ 2016-02-03T23:20:26+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_liuyan` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_liuyan` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined index: PROCESSOR_IDENTIFIER E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 332 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001214s ]
+
+[ 2016-02-03T23:20:51+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-02-03T23:21:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 200 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023507s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001216s ]
+
+[ 2016-02-03T23:22:09+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-02-03T23:22:32+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003531s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 203 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 205 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 207 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001599s ]
+
+[ 2016-02-03T23:22:52+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000346s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2016-02-03T23:22:59+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-02-03T23:23:08+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: mode/1024 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 201 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-02-03T23:23:22+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-02-03T23:23:32+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-02-03T23:24:11+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-02-03T23:25:09+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-02-03T23:25:17+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 148 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-02-03T23:25:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 149 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 149 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 149 行.
+NOTIC: [2] filesize() expects parameter 1 to be string, resource given E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-02-03T23:25:55+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-02-03T23:27:04+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001116s ]
+
+[ 2016-02-03T23:27:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-02-03T23:27:55+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-02-03T23:28:05+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002218s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+NOTIC: [8] Undefined index: status E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 202 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 204 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 206 行.
+NOTIC: [8] Undefined index: id E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\47cca97e1b78b19982ce9d57255a6ada.php 第 208 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-02-03T23:29:34+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-02-03T23:30:09+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002632s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-02-03T23:30:25+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001112s ]
+
+[ 2016-02-03T23:30:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002546s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-02-03T23:31:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-02-03T23:31:47+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-02-03T23:32:48+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-02-03T23:35:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000283s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000587s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2016-02-03T23:36:27+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Fenlei/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.222822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.222978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2016-02-03T23:36:41+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-02-03T23:36:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-02-03T23:37:07+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_article` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-02-03T23:37:11+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Yaoqing/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_code` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_code` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_code` ORDER BY id desc LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074846s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-02-03T23:37:24+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Yaoqing/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_code` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_code` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_code` ORDER BY id desc LIMIT 60,20   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000285s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+NOTIC: [8] Undefined variable: arr2 E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Admin\28bdf218c920d353b22dd6e5adf2ea99.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001093s ]
+
+[ 2016-02-03T23:41:21+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-02-03T23:41:24+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/delData/name/2016-02-03%2022
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Application/Database/2016-02-03 22) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-02-03T23:41:43+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/delData/name/2016-02-03%2022
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] unlink(./Application/Database/2016-02-03 22) [<a href='function.unlink'>function.unlink</a>]: No such file or directory E:\wamp\wamp\www\lichengmi\Application\Admin\Controller\MaintainController.class.php 第 43 行.
+
+[ 2016-02-03T23:43:49+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2016-02-03T23:44:07+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2016-02-03T23:44:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/delData/name/2016-02-03%2022
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-02-03T23:44:31+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-02-03T23:46:45+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/doBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-02-03T23:46:46+08:00 ] 127.0.0.1 /lichengmi/index.php/Admin/Maintain/dataBackups
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `blog_jingli` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_jingli` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+

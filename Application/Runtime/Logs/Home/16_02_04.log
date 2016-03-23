@@ -1,0 +1,972 @@
+[ 2016-02-04T00:22:27+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-02-04T00:41:11+08:00 ] 127.0.0.1 /lichengmi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` WHERE ( status = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_article` WHERE ( status = 0 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_slides` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_slides` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000301s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001407s ]
+
+[ 2016-02-04T01:13:33+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Blog/index/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0359s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `blog_user` WHERE ( id = 13 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_userinfo` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( uid = 13 ) LIMIT 1   [ RunTime:0.0117s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_article` WHERE ( uid = 13 AND status = 0 ) ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000282s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-02-04T01:21:12+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-02-04T01:21:13+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_user` ORDER BY id desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_userinfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='12' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='11' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='10' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='9' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='8' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='7' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='6' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='4' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='3' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='2' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000406s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.169233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-02-04T01:21:15+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002183s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_liuyan` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_liuyan` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_liuyan` ORDER BY id desc LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000633s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000888s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2016-02-04T01:21:36+08:00 ] 127.0.0.1 /lichengmi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` WHERE ( status = 0 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_article` WHERE ( status = 0 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `blog_slides` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_slides` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000413s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000642s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002033s ]
+
+[ 2016-02-04T01:21:38+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Article/index/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_article` WHERE ( id = 18 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0027s ]
+SQL: UPDATE `blog_article` SET `view`=view+1 WHERE ( id = 18 ) [ RunTime:0.0152s ]
+SQL: SELECT * FROM `blog_user` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_userinfo` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` WHERE ( uid = 1 AND status = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_article` WHERE ( uid = 1 AND status = 0 ) ORDER BY id desc LIMIT 5   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000424s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2016-02-04T01:21:39+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Article/getReplay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.2358s ]
+SQL: SELECT * FROM `blog_comment` WHERE ( aid = 18 ) LIMIT 0,10   [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `blog_userinfo` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_userinfo` WHERE ( 1=1 AND uid='1' ) LIMIT 1   [ RunTime:0.0016s ]
+
+[ 2016-02-04T21:46:41+08:00 ] 127.0.0.1 /lichengmi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0415s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0137s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` WHERE ( status = 0 ) LIMIT 1   [ RunTime:0.0046s ]
+SQL: SELECT * FROM `blog_article` WHERE ( status = 0 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0183s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_slides` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `blog_slides` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-02-04T21:47:53+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001864s ]
+
+[ 2016-02-04T21:49:18+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-02-04T21:50:23+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-02-04T21:52:25+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002429s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0663s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-02-04T21:52:52+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-02-04T21:53:17+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2016-02-04T21:53:38+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-02-04T21:55:20+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000263s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000471s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-02-04T21:55:45+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2016-02-04T22:59:40+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001100s ]
+
+[ 2016-02-04T23:00:21+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2016-02-04T23:00:57+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000995s ]
+
+[ 2016-02-04T23:01:06+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-02-04T23:01:24+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: vp E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Home\8dead8e5acdf5a4721335cb0e435a886.php 第 270 行.
+NOTIC: [8] Undefined variable: vp E:\wamp\wamp\www\lichengmi\Application\Runtime\Cache\Home\8dead8e5acdf5a4721335cb0e435a886.php 第 270 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-02-04T23:01:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000299s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2016-02-04T23:01:44+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001467s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001216s ]
+
+[ 2016-02-04T23:02:30+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2016-02-04T23:04:03+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001290s ]
+
+[ 2016-02-04T23:04:12+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2016-02-04T23:04:56+08:00 ] 127.0.0.1 /lichengmi/index.php/Home/Index/yaoqingma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2016-02-04T23:06:09+08:00 ] 127.0.0.1 /lichengmi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid = 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( fid != 0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_site` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `blog_site` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `blog_email_set` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `blog_email_set` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_article` WHERE ( status = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_article` WHERE ( status = 0 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `blog_fenlei` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_user` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `blog_fenlei` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `blog_slides` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `blog_slides` ORDER BY id desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
